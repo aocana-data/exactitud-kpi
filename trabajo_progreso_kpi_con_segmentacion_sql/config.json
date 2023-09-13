@@ -1,0 +1,14 @@
+{
+    "builder": {
+        "engine": "athena",
+        "path": "./athena_segmentador_kpi/trabajo_progreso_kp13_con_segmentacion.sql"
+    },
+    "exactitud_validadores": "",
+    "exactitud_reglas": {},
+    "chars_null": [],
+    "completitud_reglas": { "rules": {} },
+    "dtypes": {},
+    "add_general": true,
+    "grouped_by": ["base_origen"],
+    "not_nullish": { "base_origen": "NO DETERMINADO" }
+}

@@ -1,0 +1,9 @@
+,base_origen,completitud_row,completitud_row,exactitud_row,exactitud_row,criterio_minimo
+,,registros_completos_por_filas,completitud_por_filas,registros_exactos_por_filas,exactitud_por_filas,
+0,CRMEMPLEO,17915,60.81,17915,100.00,60.81
+1,CRMSL,46532,57.96,46532,100.00,57.96
+2,GOET,94310,49.26,94310,100.00,49.26
+3,MOODLE,28007,50.70,28007,100.00,50.70
+4,PORTALEMPLEO,131754,58.98,131754,100.00,58.98
+5,SIENFO,79081,49.97,79081,100.00,49.97
+6,SIU,15734,50.11,15734,100.00,50.11

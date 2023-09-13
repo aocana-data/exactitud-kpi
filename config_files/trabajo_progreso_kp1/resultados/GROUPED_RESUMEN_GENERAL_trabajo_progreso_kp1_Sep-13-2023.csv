@@ -1,0 +1,9 @@
+,base_origen,registros,documento_broker,documento_broker,documento_broker,documento_broker,fecha_inicio,fecha_inicio,fecha_inicio,fecha_inicio,fecha_fin,fecha_fin,fecha_fin,fecha_fin,completitud_row,completitud_row,exactitud_row,exactitud_row
+,,registros_totales,registros_completos,completitud,registros_exactos,exactitud,registros_completos,completitud,registros_exactos,exactitud,registros_completos,completitud,registros_exactos,exactitud,registros_completos_por_filas,completitud_por_filas,registros_exactos_por_filas,exactitud_por_filas
+0,CRMEMPLEO,29459,29459,100.00,29459,100.00,29459,100.00,29459,100.00,17915,60.81,17915,100.00,17915,60.81,17915,100.00
+1,CRMSL,80276,80276,100.00,80276,100.00,80276,100.00,80276,100.00,46532,57.96,46532,100.00,46532,57.96,46532,100.00
+2,GOET,191424,191424,100.00,191424,100.00,191424,100.00,191424,100.00,94310,49.26,94310,100.00,94310,49.26,94310,100.00
+3,MOODLE,55234,55234,100.00,55234,100.00,55234,100.00,55234,100.00,28007,50.70,28007,100.00,28007,50.70,28007,100.00
+4,PORTALEMPLEO,223377,223377,100.00,223377,100.00,223377,100.00,223377,100.00,131754,58.98,131754,100.00,131754,58.98,131754,100.00
+5,SIENFO,158245,158245,100.00,158245,100.00,158245,100.00,158245,100.00,79081,49.97,79081,100.00,79081,49.97,79081,100.00
+6,SIU,31396,31396,100.00,31396,100.00,31396,100.00,31396,100.00,15734,50.11,15734,100.00,15734,50.11,15734,100.00

@@ -1,0 +1,21 @@
+{
+    "builder": {
+        "engine": "athena",
+        "path": "./trabajo_progreso_kpi_con_segmentacion_sql/trabajo_progreso_kp8_con_segmentacion.sql"
+    },
+    "exactitud_validadores": "",
+    "exactitud_reglas": {
+        "base_origen": "comprobando_strings",
+        "tipo_capacitacion": "comprobando_strings",
+        "fecha_inicio": "comprobando_fecha_general",
+        "fecha_fin": "comprobando_fecha_general",
+        "sector_productivo": "comprobando_alfanumerico",
+        "descrip_modalidad": "comprobando_strings"
+    },
+    "chars_null": [],
+    "completitud_reglas": { "rules": {} },
+    "dtypes": {},
+    "add_general": true,
+    "grouped_by": ["base_origen"],
+    "not_nullish": { "base_origen": "NO DETERMINADO" }
+}

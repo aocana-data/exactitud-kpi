@@ -1,0 +1,7 @@
+,base_origen,registros,tipo_capacitacion,tipo_capacitacion,tipo_capacitacion,tipo_capacitacion,fecha_inicio,fecha_inicio,fecha_inicio,fecha_inicio,fecha_fin,fecha_fin,fecha_fin,fecha_fin,completitud_row,completitud_row,exactitud_row,exactitud_row
+,,registros_totales,registros_completos,completitud,registros_exactos,exactitud,registros_completos,completitud,registros_exactos,exactitud,registros_completos,completitud,registros_exactos,exactitud,registros_completos_por_filas,completitud_por_filas,registros_exactos_por_filas,exactitud_por_filas
+0,CRMSL,57,57,100.00,57,100.00,55,96.49,55,100.00,32,56.14,32,100.00,31,54.38,31,100.00
+1,GOET,462,462,100.00,462,100.00,460,99.56,460,100.00,9,1.94,9,100.00,9,1.94,9,100.00
+2,MOODLE,17,17,100.00,17,100.00,17,100.00,17,100.00,4,23.52,4,100.00,4,23.52,4,100.00
+3,SIENFO,351,351,100.00,351,100.00,351,100.00,351,100.00,5,1.42,5,100.00,5,1.42,5,100.00
+4,SIU,64,64,100.00,64,100.00,64,100.00,64,100.00,0,0.00,0,0.00,0,0.00,0,0.00

@@ -1,0 +1,25 @@
+{
+    "builder": {
+        "engine": "athena",
+        "path": "./trabajo_progreso_kpi_sql/trabajo_progreso_kp13.sql"
+    },
+    "exactitud_validadores": "",
+    "exactitud_reglas": {
+        "base_origen": "comprobando_strings",
+        "id_broker": "comprobando_alfanumerico",
+        "cuit_del_empleador": "custom_comprobando_cuit_cuil",
+        "documento_broker": "comprobando_numeros",
+        "cursada_estado_beneficiario": "comprobando_strings",
+        "fecha_inicio": "comprobando_fechas_date",
+        "fecha_fin": "comprobando_fechas_date",
+        "tipo_programa": "comprobando_strings",
+        "capacitacion_fecha_inicio": "comprobando_fecha_general",
+        "capacitacion_fecha_fin": "comprobando_fecha_general"
+    },
+    "chars_null": [],
+    "completitud_reglas": { "rules": {} },
+    "dtypes": {},
+    "add_general": true,
+    "grouped_by": ["base_origen"],
+    "not_nullish": { "base_origen": "NO DETERMINADO" }
+}

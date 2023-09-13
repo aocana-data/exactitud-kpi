@@ -1,0 +1,7 @@
+,base_origen,registros,id_broker,id_broker,cuit_del_empleador,cuit_del_empleador,documento_broker,documento_broker,cursada_estado_beneficiario,cursada_estado_beneficiario,fecha_inicio,fecha_inicio,fecha_fin,fecha_fin,tipo_programa,tipo_programa,capacitacion_fecha_inicio,capacitacion_fecha_inicio,capacitacion_fecha_fin,capacitacion_fecha_fin,completitud_row,completitud_row
+,,registros_totales,registros_completos,completitud,registros_completos,completitud,registros_completos,completitud,registros_completos,completitud,registros_completos,completitud,registros_completos,completitud,registros_completos,completitud,registros_completos,completitud,registros_completos,completitud,registros_completos_por_filas,completitud_por_filas
+0,CRMSL,2040,2040,100.00,1214,59.50,2040,100.00,2007,98.38,1214,59.50,839,41.12,2040,100.00,2040,100.00,776,38.03,259,12.69
+1,GOET,354045,354045,100.00,194783,55.01,354045,100.00,322991,91.22,194783,55.01,98395,27.79,354045,100.00,353293,99.78,2074,0.58,646,0.18
+2,MOODLE,93839,93839,100.00,48243,51.41,93839,100.00,93839,100.00,48243,51.41,24790,26.41,93839,100.00,93839,100.00,9351,9.96,2354,2.50
+3,SIENFO,429668,429668,100.00,163766,38.11,429668,100.00,429661,99.99,163766,38.11,82037,19.09,429668,100.00,429668,100.00,0,0.00,0,0.00
+4,SIU,20600,20600,100.00,11749,57.03,20600,100.00,20600,100.00,11749,57.03,6059,29.41,20600,100.00,20600,100.00,0,0.00,0,0.00

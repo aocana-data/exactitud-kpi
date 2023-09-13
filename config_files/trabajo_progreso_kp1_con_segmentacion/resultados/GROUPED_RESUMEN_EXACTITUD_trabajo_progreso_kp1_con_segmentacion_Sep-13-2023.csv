@@ -1,0 +1,9 @@
+,base_origen,registros,id_broker,id_broker,tipo_doc_broker,tipo_doc_broker,cuit_del_empleador,cuit_del_empleador,documento_broker,documento_broker,fecha_inicio,fecha_inicio,fecha_fin,fecha_fin,edad,edad,nacionalidad_broker,nacionalidad_broker,genero_broker,genero_broker,tipo_programa,tipo_programa,sector_productivo,sector_productivo,exactitud_row,exactitud_row
+,,registros_totales,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos,exactitud,registros_exactos_por_filas,exactitud_por_filas
+0,CRMEMPLEO,29459,29459,100.00,29459,100.00,24394,82.80,29459,100.00,29459,100.00,17915,100.00,28601,99.93,29459,100.00,29453,99.97,0,0.00,0,0.00,0,0.00
+1,CRMSL,80276,80276,100.00,80276,100.00,66996,83.45,80276,100.00,80276,100.00,46532,100.00,79931,99.95,80276,100.00,80261,99.98,1080,100.00,0,0.00,0,0.00
+2,GOET,191424,191424,100.00,191424,100.00,160456,83.82,191424,100.00,191424,100.00,94310,100.00,191268,99.91,191424,100.00,191424,100.00,132980,100.00,0,0.00,0,0.00
+3,MOODLE,55234,55234,100.00,55234,100.00,45976,83.23,55234,100.00,55234,100.00,28007,100.00,0,0.00,55234,100.00,55219,99.97,45464,100.00,0,0.00,0,0.00
+4,PORTALEMPLEO,223377,223377,100.00,223377,100.00,184119,82.42,223377,100.00,223377,100.00,131754,100.00,223216,99.92,223377,100.00,223375,99.99,0,0.00,0,0.00,0,0.00
+5,SIENFO,158245,158245,100.00,158245,100.00,131247,82.93,158245,100.00,158245,100.00,79081,100.00,155445,98.51,158245,100.00,158195,99.96,119678,100.00,0,0.00,0,0.00
+6,SIU,31396,31396,100.00,31396,100.00,26067,83.02,31396,100.00,31396,100.00,15734,100.00,30642,97.59,31396,100.00,31396,100.00,4276,100.00,0,0.00,0,0.00

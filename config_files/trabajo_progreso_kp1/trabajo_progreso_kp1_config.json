@@ -1,0 +1,19 @@
+{
+    "builder": {
+        "engine": "athena",
+        "path": "./trabajo_progreso_kpi_sql/trabajo_progreso_kp1.sql"
+    },
+    "exactitud_validadores": "",
+    "exactitud_reglas": {
+        "base_origen": "comprobando_strings",
+        "documento_broker": "comprobando_numeros",
+        "fecha_inicio": "comprobando_fechas_date",
+        "fecha_fin": "comprobando_fechas_date"
+    },
+    "chars_null": [],
+    "completitud_reglas": { "rules": {} },
+    "dtypes": {},
+    "add_general": true,
+    "grouped_by": ["base_origen"],
+    "not_nullish": { "base_origen": "NO DETERMINADO" }
+}
